@@ -30,7 +30,7 @@ python PassForge.py
 ### Linux (Kali Linux / Ubuntu)
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/PassForge.git
+git clone https://github.com/ibrahimabdulsobur85-maker/PassForge.git
 cd PassForge
 python3 PassForge.py
 ```
