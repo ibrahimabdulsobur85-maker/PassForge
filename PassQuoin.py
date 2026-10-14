@@ -3,7 +3,7 @@ import string
 import time
 def header():
     print("=" * 50)
-    print("PassForge".center(50))
+    print("PassQuoin".center(50))
     print("=" * 50)
     print("PASSWORD SECURITY TOOLKIT")
     print("Version 1.0")
