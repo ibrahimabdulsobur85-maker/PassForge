@@ -1,8 +1,8 @@
-# PassForge 🔐
+# PassQuoin 🔐
 
-**PassForge — Password Security Toolkit**
+**PassQuoin — Password Security Toolkit**
 
-HIMPASS is a Python-based cybersecurity project that provides a password generator and a basic password strength checker.
+PassQuoin is a Python-based cybersecurity project that provides a password generator and a basic password strength checker.
 
 ## Features
 
@@ -26,17 +26,17 @@ HIMPASS is a Python-based cybersecurity project that provides a password generat
 ### Linux (Kali Linux / Ubuntu / Termux)
 
 ```bash
-git clone https://github.com/ibrahimabdulsobur85-maker/PassForge.git
-cd PassForge
-python3 PassForge.py
+git clone https://github.com/ibrahimabdulsobur85-maker/PassQuoin.git
+cd PassQuoin
+python3 PassQuoin.py
 ```
 
 ### Windows
 
 ```powershell
-git clone https://github.com/ibrahimabdulsobur85-maker/PassForge.git
-cd PassForge
-python PassForge.py
+git clone https://github.com/ibrahimabdulsobur85-maker/PassQuoin.git
+cd PassQuoin
+python PassQuoin.py
 ```
 
 
