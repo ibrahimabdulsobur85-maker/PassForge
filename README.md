@@ -23,7 +23,7 @@ HIMPASS is a Python-based cybersecurity project that provides a password generat
 4. Run:
 ## Usage
 
-### Linux (Kali Linux / Ubuntu)
+### Linux (Kali Linux / Ubuntu / Termux)
 
 ```bash
 git clone https://github.com/ibrahimabdulsobur85-maker/PassForge.git
