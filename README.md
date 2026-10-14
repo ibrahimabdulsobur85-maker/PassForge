@@ -21,11 +21,7 @@ HIMPASS is a Python-based cybersecurity project that provides a password generat
 2. Download or clone this repository.
 3. Open a terminal in the project folder.
 4. Run:
-   ### Windows
-
-```powershell
-python PassForge.py
-```
+## Usage
 
 ### Linux (Kali Linux / Ubuntu)
 
@@ -34,6 +30,16 @@ git clone https://github.com/ibrahimabdulsobur85-maker/PassForge.git
 cd PassForge
 python3 PassForge.py
 ```
+
+### Windows
+
+```powershell
+git clone https://github.com/ibrahimabdulsobur85-maker/PassForge.git
+cd PassForge
+python PassForge.py
+```
+
+
 
 ## Learning Purpose
 
